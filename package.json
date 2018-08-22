@@ -1,0 +1,26 @@
+{
+  "name": "cryptoprice",
+  "version": "1.0.0",
+  "description": "A server-rendered react app that fetches bitcoin prices.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samakintunde37/cryptoprice.git"
+  },
+  "author": "Samuel Akintunde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samakintunde37/cryptoprice/issues"
+  },
+  "homepage": "https://github.com/samakintunde37/cryptoprice#readme",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
